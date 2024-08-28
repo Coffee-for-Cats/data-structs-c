@@ -1,0 +1,7 @@
+E bra0074
+E cra0813
+E fza4472
+E zra0071
+# saída de carros
+S bra0072
+S fza4472
